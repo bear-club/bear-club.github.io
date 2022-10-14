@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: bear-club
+subtitle: enjoy bears🐻
+description: welcome join us
+keywords: bear, node, js, php(oh, no~)
+author: Cyzen
+language: CH
+timezone: 2022-10.14 21.09
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
